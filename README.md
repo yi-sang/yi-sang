@@ -34,9 +34,7 @@
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [[Algorithm]-친구 네트워크](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2021-11-06-FriendNetwork.md)
-<br>
 - [[iOS]-Concurrency](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2021-12-19-%5BiOS%5DConcurrency.md)
-<br>
 - [[English]-Cake](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2022-01-15-%5BEnglish%5D.md)
 <!-- BLOG-POST-LIST:END -->
 <br>
@@ -47,7 +45,7 @@ Portfolian will make it easy for you to advertise and find Toy Projects. I think
 > iOS App, UIKit
 
 <a href="https://github.com/PORTFOLIAN/Portfolian-IOS" lign="center">
-<img src="https://user-images.githubusercontent.com/73280175/136690070-03a822a4-2646-48df-b6a4-9c706efd626a.gif" alt="simulator" width="20%">
+<!--<img src="https://user-images.githubusercontent.com/73280175/136690070-03a822a4-2646-48df-b6a4-9c706efd626a.gif" alt="simulator" width="20%">-->
 </a>
 
 <br><br><br><br>
