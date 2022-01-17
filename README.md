@@ -35,9 +35,9 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-![Algorithm](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2021-11-06-FriendNetwork.md)
-![iOS-Concurrency](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2021-12-19-%5BiOS%5DConcurrency.md)
-![English](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2022-01-15-%5BEnglish%5D.md)
+[Algorithm](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2021-11-06-FriendNetwork.md)
+[iOS-Concurrency](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2021-12-19-%5BiOS%5DConcurrency.md)
+[English](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2022-01-15-%5BEnglish%5D.md)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
