@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=이상현&fontSize=90&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hyle&fontSize=90&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
@@ -35,9 +35,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-[Algorithm](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2021-11-06-FriendNetwork.md)
+[Algorithm-친구 네트워크](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2021-11-06-FriendNetwork.md)
+<br>
 [iOS-Concurrency](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2021-12-19-%5BiOS%5DConcurrency.md)
-[English](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2022-01-15-%5BEnglish%5D.md)
+<br>
+[English-Cake](https://github.com/yi-sang/yi-sang.github.io/blob/main/_posts/2022-01-15-%5BEnglish%5D.md)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
